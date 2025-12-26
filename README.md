@@ -10,7 +10,7 @@
 📍 Ubicación: Huamachuco, La Libertad, Perú
 🎂 Edad: 20 años
 💼 Profesión: Ingeniero en Sistemas
-🚀 Enfoque: Desarrollo Backend y Estructuras de Datos
+🚀 Enfoque: Desarrollo Backend , Estructuras de Datos  y ciberseguridad
 ```
 
 ---
@@ -93,7 +93,7 @@
 
 ```
 Carrera: Ingeniería en Sistemas
-Universidad: [Tu Universidad]
+Universidad: UPN
 Estado: En Progreso 📚
 ```
 
